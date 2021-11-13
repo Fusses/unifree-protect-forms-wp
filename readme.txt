@@ -59,7 +59,6 @@ Do you have questions or issues with Protect Forms RPOST? Use these support chan
 3. Screenshot-3.png
 4. Screenshot-4.png
 5. Screenshot-5.png
-6. Screenshot-6.png
 
 == Changelog ==
 
