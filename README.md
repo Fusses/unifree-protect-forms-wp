@@ -31,3 +31,13 @@ Please submit [issues](https://github.com/Fusses/unifree-protect-forms-wp/issues
 ## Changelog
 
 Please see the Github repository: [CHANGELOG.md](https://github.com/Fusses/unifree-protect-forms-wp/blob/main/CHANGELOG.md).
+
+### Screenshot
+
+<p align="center">
+  <img src="../main/docs/screenshot/Screenshot_1.png" width="350" alt="adding dynamic text via developer console" title="adding dynamic text via developer console">
+  <img src="../main/docs/screenshot/Screenshot_2.png" width="350" alt="sending a request for the POST method and checking that the message was not sent" title="sending a request for the POST method and checking that the message was not sent">
+  <img src="../main/docs/screenshot/Screenshot_4.png" width="350" alt="adding dynamic text via developer console for contact form 7" title="adding dynamic text via developer console for contact form 7">
+  <img src="../main/docs/screenshot/Screenshot_5.png" width="350" alt="sending a request for the POST method for contact form 7" title="sending a request for the POST method for contact form 7">
+  <img src="../main/docs/screenshot/Screenshot_6.png" width="350" alt="checking that the message was not sent for contact form 7" title="checking that the message was not sent for contact form 7">
+</p>
