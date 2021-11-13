@@ -1,6 +1,6 @@
 <?php
 /**
- * @author  Protect Forms RPOST (beta)
+ * @author  Protect Forms RPOST
  * @package UniFree-protect-Forms-WP
  * @version 0.0.1
  * @license GPL-2.0+
@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2021, Protect Forms RPOST
  */
 /*
-Plugin Name: Protect Forms RPOST (beta)
+Plugin Name: Protect Forms RPOST
 Plugin URI: https://github.com/Fusses/unifree-protect-forms-wp
 Description: Protecting forms from spam without captcha or api Using only javascript, php is detected by spam robots
 Version: 0.0.3
